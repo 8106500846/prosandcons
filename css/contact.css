@@ -1,0 +1,33 @@
+
+/*==============
+
+CSS Index:
+    -hero area CSS
+    -main section CSS
+    
+===============*/
+
+
+/* hero area CSS */
+.hero-area {
+    background: #292f36 url("../images/about-hero.jpg") no-repeat right;
+    background-size: cover;
+}
+
+
+/* main section CSS */
+.sharing-opts {
+    padding-top: 30px;
+    border: 0;
+    border-top: 1px solid #f0f0f0;
+}
+.sharing-opts span {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+.sharing-opts p {
+    margin-top: 10px;
+}
+.sharing-opts p a {
+    display: inline-block;
+}

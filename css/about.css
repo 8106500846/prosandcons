@@ -1,0 +1,48 @@
+
+/*=============
+
+CSS Index:
+	-hero area CSS
+	-main section CSS
+	
+==============*/
+
+
+/* hero area CSS */
+.hero-area {
+	background: #292f36 url("../images/contact\ hero.jpg") no-repeat bottom;
+	background-size: cover
+}
+
+
+/* main section CSS */
+.single-author {
+	margin-top: 30px;
+}
+.single-author p img {
+	float: left;
+	max-width: 150px;
+	height: auto;
+	margin-right: 20px;
+	border-radius: 50%;
+}
+.author-links {
+	margin-top: 10px;
+	
+}
+.author-links a {
+	display: inline-block;
+	color: #292f36;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background: #ffffff;
+	border: 2px solid #292f36;
+	border-radius: 50%;
+	margin-left: 5px;
+	text-align: center;
+}
+.author-links a:hover {
+	color: #ff6b6b;
+	border-color: #ff6b6b;
+}
